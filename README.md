@@ -1,7 +1,7 @@
 # TextExpander – Text Expansion and Team Snippet Sharing for Mac
 
 <p align="center">
-  <img src="https://textexpander.com/wp-content/uploads/2017/02/icon_TextExpander512.png" width="200" alt="TextExpander icon"/>
+  <img src="https://www.jordanharbinger.com/wp-content/uploads/2021/08/text-expander.png" width="200" alt="TextExpander icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://textexpander.com/wp-content/uploads/2017/09/TE-Mac-Appearance-preferences.png" alt="TextExpander screenshot"/>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2017/05/textexpander-dldf2.png" alt="TextExpander screenshot"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ The <a href="#">team snippet sharing system</a> distributes snippet groups from 
 ---
 
 <p align="center">
-  <img src="https://textexpander.com/wp-content/uploads/te-mac-install-1.jpg" alt="TextExpander screenshot 2"/>
+  <img src="https://techwiser.com/wp-content/uploads/2018/03/TextExpander-mac-e1522175999924.png" alt="TextExpander screenshot 2"/>
 </p>
 
 ---
